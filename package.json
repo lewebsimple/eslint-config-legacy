@@ -1,6 +1,6 @@
 {
   "name": "@lewebsimple/eslint-config",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Default ESLint configuration by Le Web simple",
   "main": "index.js",
   "author": "Pascal Martineau <pascal@lewebsimple.ca>",
