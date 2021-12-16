@@ -1,22 +1,21 @@
 {
   "name": "@lewebsimple/eslint-config",
-  "version": "0.2.7",
+  "version": "0.3.0",
   "description": "Default ESLint configuration by Le Web simple",
   "main": "index.js",
   "author": "Pascal Martineau <pascal@lewebsimple.ca>",
   "license": "MIT",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.30.0",
-    "@typescript-eslint/parser": "^4.30.0",
-    "eslint": "^7.21.0",
+    "@typescript-eslint/eslint-plugin": "^5.7.0",
+    "@typescript-eslint/parser": "^5.7.0",
+    "eslint": "^8.4.1",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^3.4.0",
-    "eslint-plugin-vue": "^7.19.1",
-    "prettier": "^2.4.1",
-    "typescript": "^4.2.3"
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^8.2.0",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.4"
   },
   "peerDependencies": {
-    "eslint": ">= 7",
-    "typescript": ">= 4"
+    "eslint": ">= 7"
   }
 }
